@@ -87,7 +87,7 @@ public abstract class AbsActionAdvisor {
 				ToolBarContributionItem toolBarContributionItem = (ToolBarContributionItem) item;
 				newToolbarManager = toolBarContributionItem.getToolBarManager();
 				break;
-				// }
+
 			}
 		}
 		return newToolbarManager;
